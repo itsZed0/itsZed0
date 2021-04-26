@@ -8,7 +8,7 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 
 - 🔭 I’m currently working on React and Spring Boot.
 - 🌱 I’m currently learning web application security fundamentals.
-- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white)](www.linkedin.com/in/kakbar)
+- 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-kakbar-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kakbar)](https://www.linkedin.com/in/kakbar)
 
 ---
 
