@@ -4,7 +4,7 @@
 
 <p align="center"><img src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" /></p>
 
-### 👨🏻‍💻 &nbsp;About Me
+### 👨🏻‍💻 &nbsp;About Me :
 
 I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> from India. Working as a Software Engineer.
 
@@ -37,6 +37,11 @@ I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEm
 </p>
 
 ---
+
+### 🔥 &nbsp;Streak stats :
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsZed0&theme=dark&background=000000)](https://git.io/streak-stats)
+
 <!--
 **itsZed0/itsZed0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
