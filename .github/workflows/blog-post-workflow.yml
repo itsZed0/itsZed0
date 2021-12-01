@@ -14,4 +14,4 @@ jobs:
       - uses: gautamkrishnar/blog-post-workflow@master
         with:
           max_post_count: "4"
-          feed_list: "https://dev.to/feed/itszed0"
+          feed_list: "https://www.twilio.com/blog/author/nidakhan/feed"
